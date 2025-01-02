@@ -40,5 +40,4 @@
 <a href="https://www.instagram.com/chloeyuan1211/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href=" " target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/ChloeYuan1211" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
-<a href="chloeyuan1211@gamil.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/gm.png" alt="GitHub" width="30"></a>
 -
