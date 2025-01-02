@@ -1,13 +1,13 @@
 ## Hi 👋, I'm [Chloe](https://github.com/ChloeYuan1211) 👨‍💻
-#### **✨Looking for DEVELOP Job✨** 
+### **✨Looking for DEVELOP Job✨** 
 
-#### **👧 a little about myself**：
+### **👧 a little about myself**：
 - 📖 Undergraduate Student majoring in Computer Science and Engineering & Interdisciplinary Data Analytics Double Major at CUHK.
 - 🌟 Open Source & Business Analytics enthusiast.
 - 💬 Ask me about Java, TypeScript and my projects on [chloeyuan1211@gmail.com](mailto:chloyuan1211@gmail.com)
 - ⚡ Fun fact: Data Analysis📊
 
-#### **🛠 Languages and Tools**：
+### **🛠 Languages and Tools**：
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -24,15 +24,15 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-#### **🌱Internship Experience**：
+### **🌱Internship Experience**：
 - [**Golden Education. Co**] -- **Research Intern**  `From 2024.5 - 2024.10`
 
-#### **⭐Project Experience**：
+### **⭐Project Experience**：
 - [AI-based PvE DouDizhu]
 - [Patiotemporal Analysis and Prediction of COVID-19 Pandemic]
 - [NeurIPS 2024 - General Track: Automatic Bidding with Uncertainty]
 
-#### **📫 Connect with me**：
+### **📫 Connect with me**：
 
 ####
 
