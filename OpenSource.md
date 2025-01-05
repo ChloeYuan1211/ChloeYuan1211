@@ -2,9 +2,9 @@
 
 | Activity | Important time points |
 | --- | --- |
-| [比特之夏 (Summer of Bitcoin) ](https://www.summerofbitcoin.org/)| **Student Application Period:** February 1 - February 19 <br> **Proposal Round:** April 1 - April 30 <br> **Accepted Students Announced:** May 7 <br> **Students Submit Projects:** August 30 <br> **Results Announced:** September 9 |
+| [比特之夏 (Summer of Bitcoin) ](https://www.summerofbitcoin.org/)| **Application Period:** February 1 - February 19 <br> **Proposal Round:** April 1 - April 30 <br> **Accepted Students Announced:** May 7 <br> **Students Submit Projects:** August 30 <br> **Results Announced:** September 9 |
 | [Linux基金会开源实习 (春季) (The Linux Foundation Mentorship Program)](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines) | **Spring Term:** March 1 - May 31 <br> **Mentorships available:** Mid-January <br> **Mentee applications open:** Approximately 4 weeks <br> **Mentee application review and acceptance:** Approximately 2 weeks before the term begins |
-| [Outreachy夏季实习](https://www.outreachy.org/) | 申请时间: 2月 - 3月 <br> 实习时间: 5月 - 8月 |
+| [Outreachy夏季实习](https://www.outreachy.org/) | **Application Period:** Mid-January - Late-January <br> **Internship Period:** Late-May - Late-August |
 | GirlScript Summer of Code (GSSOC) | 项目时间: 3月1日 - 5月31日 |
 | 谷歌编程之夏 (Google Summer of Code) | 社区项目公布: March 7 <br> 提交项目申请: April 4 - April 19 |
 | [Linux基金会开源实习 (夏季)(The Linux Foundation Mentorship Program)](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines) | **Summer Term:** June 1 - August 31 <br> **Mentorships available:** Mid-April <br> **Mentee applications open:** Approximately 4 weeks <br> **Mentee application review and acceptance:** Approximately 2 weeks before the term begins |
