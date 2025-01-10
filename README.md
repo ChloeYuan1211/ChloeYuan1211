@@ -9,7 +9,7 @@
 
 ### **🛠 Languages and Tools**：
 
-- 💻 &#160; :![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
   ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=blue)
@@ -17,10 +17,10 @@
   ![QT](http://img.shields.io/badge/-QT-black?style=flat-square&logo=qt)
   ![JavaScript](http://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 
-- 🛢 &#160; :![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![STATA](https://img.shields.io/badge/-STATA-333333?style=flat&logo=stata)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
-- 🔧 &#160;: ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
+- 🔧 &#160; ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
