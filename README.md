@@ -1,9 +1,9 @@
 ## Hi 👋, I'm [Chloe](https://github.com/ChloeYuan1211) 👨‍💻
-### **✨Looking for BUSINESS ANALYTICS & DATA ANALYSIS Job✨** 
+### **✨Looking for DEVELOP Job✨** 
 
 ### **👧 a little about myself**：
 - 📖 Undergraduate Student majoring in Computer Science and Engineering & Interdisciplinary Data Analytics Double Major at CUHK.
-- 🌟 Business Analytics Enthusiast.
+- 🌟 Open Source & Business Analytics Enthusiast.
 - 💬 Connect with me on [chloeyuan1211@gmail.com](mailto:chloyuan1211@gmail.com)
 - ⚡ Fun fact: Data Analysis📊
 
@@ -17,9 +17,11 @@
   ![QT](http://img.shields.io/badge/-QT-black?style=flat-square&logo=qt)
   ![JavaScript](http://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- 🛢 &#160;![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![STATA](https://img.shields.io/badge/-STATA-333333?style=flat&logo=stata)
   ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
+  ![Power BI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
 - 🔧 &#160; ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
