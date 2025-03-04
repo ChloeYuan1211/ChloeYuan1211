@@ -1,5 +1,5 @@
 ## Hi 👋, I'm [Chloe](https://github.com/ChloeYuan1211) 👨‍💻
-### **✨Looking for Business Analytics Job✨** 
+### **✨Looking for Data Science / Business Analytics Job✨** 
 
 ### **👧 a little about myself**：
 - 📖 Undergraduate Student majoring in Computer Science and Engineering & Interdisciplinary Data Analytics Double Major at CUHK.
