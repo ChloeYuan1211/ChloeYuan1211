@@ -4,7 +4,7 @@
 ### **👧 a little about myself**：
 - 📖 Undergraduate Student majoring in Computer Science and Engineering & Interdisciplinary Data Analytics Double Major at CUHK.
 - 🌟 Business Analytics Enthusiast.
-- 💬 Connect with me on [chloeyuan1211@gmail.com](mailto:chloyuan1211@gmail.com)
+- 💬 Connect with me on [chloeyuan1211@gmail.com](mailto:chloyuan1211@gmail.com) or [chloeyuan1211@163.com](mailto:chloyuan1211@163.com)
 - ⚡ Fun fact: Data Analysis📊
 
 ### **🛠 Languages and Tools**：
@@ -29,12 +29,15 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### **🌱Internship Experience**：
-- [**Golden Education. Co**] -- **Research Intern**  `From 2024.5 - 2024.10`
+- [**Dalian Tulong Computer Co., Ltd.**] -- **Data Science Intern**  `From 2024.5 - 2024.9`
+- [**Deloitte**] -- **Internship - Engineering - Technology & Transformation**  `From 2025.5 - 2025.10`
 
 ### **⭐Project Experience**：
 - [AI-based PvE DouDizhu]
 - [Patiotemporal Analysis and Prediction of COVID-19 Pandemic]
 - [NeurIPS 2024 - General Track: Automatic Bidding with Uncertainty]
+- [Jane Street Real-time Market Data Forecasting]
+- [Front-end Monitoring System  ]
 
 ### **📫 Connect with me**：
 
